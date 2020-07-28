@@ -17,9 +17,9 @@ Check the required main items
     Check the main elements
 
 Check the required section items
-    Check required elements count   p      5
-    Check required elements count   code   1
-    Check required elements count   li     3
+    Check required elements count   p      10
+    Check required elements count   code   5
+    Check required elements count   li     5
 
 Check the required nav items
     Check the nav elements
